@@ -1,8 +1,8 @@
 {
   "format_version": "1.8.0",
   "geometry.ghast": {
-    "visible_bounds_width": 6,
-    "visible_bounds_height": 9,
+    "visible_bounds_width": 10,
+    "visible_bounds_height": 4,
     "visible_bounds_offset": [ 0, 4.5, 0 ],
     "texturewidth": 64,
     "textureheight": 32,
@@ -62,7 +62,7 @@
         "cubes": [
           {
             "origin": [ -2.3, -12.0, -1.0 ],
-            "size": [ 2.0, 13.0, 2.0 ],
+            "size": [ 27.0, 11.0, 2.0 ],
             "uv": [ 0, 0 ]
           }
         ]
